@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(114, 114, 114);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: #242424;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #0f0f0f;
+  color: yellow;
+  outline: none;
+  border: 1px solid #0f0f0f;
+  border-radius: 0.6rem;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #252525;
+  color: rgb(255, 255, 68);
+}
